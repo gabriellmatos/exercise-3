@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.container {
+	display: flex;
+	margin: 2px;
+}
+
+.side-container {
+	width: 30vw;
+}
+
+.main-container {
+	width: 70vw;
+}
+
+.image-container {
+	display: flex;
+	margin: 2px;
+}

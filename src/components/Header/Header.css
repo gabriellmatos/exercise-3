@@ -1,0 +1,15 @@
+.header {
+	background-color: lightblue;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 25px;
+	text-align: center;
+	margin: 2px 2px 0 2px;
+}
+
+.header header {
+	font-size: 25px;
+	font-weight: bold;
+}

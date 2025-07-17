@@ -1,0 +1,13 @@
+.related-images {
+	background-color: green;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 25px;
+	font-size: 25px;
+	font-weight: bold;
+	height: 150px;
+	width: 70vw;
+	text-align: center;
+}

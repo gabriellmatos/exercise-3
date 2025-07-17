@@ -1,0 +1,12 @@
+.extra-content {
+	background-color: gray;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 25px;
+	font-size: 25px;
+	font-weight: bold;
+	height: 100px;
+	text-align: center;
+}

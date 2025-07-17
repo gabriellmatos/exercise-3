@@ -1,0 +1,13 @@
+.side-bar {
+	background-color: olive;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 25px;
+	font-size: 25px;
+	font-weight: bold;
+	height: 300px;
+	text-align: center;
+	margin: 0 2px 0 0;
+}
